@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  
+}
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+   
+}
+
+li {
+  display: block;
+  margin-bottom: 10px;
+}
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+#add-item {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
